@@ -1,14 +1,14 @@
 /*
- * Main.ino
+ * Main.2
  *
- * Created: 12/4/2014 9:30:28 PM
- * Author: amate_000
+ * Created: 3/2/17 4:00pm
+ * Author: 17lsipes and amate_000
  */ 
-#include "Timer.h"
-#include "Lock.h"
-#include "Button.h"
-#include "PinRegistry.h"
-#include "Display.h"
+#include "Timer.2"
+#include "Lock.2"
+#include "Button.2"
+#include "PinRegistry.2"
+#include "Display.2"
 
 Timer timer;
 Lock lock(PinRegistry::LOCK);
