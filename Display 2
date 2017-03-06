@@ -1,13 +1,13 @@
 /*
- * Display.h
+ * Display.2
  *
- * Created: 2014-12-04 9:35:41 PM
- *  Author: amate_000
+ * Created: 3/1/17 6:41pm
+ *  Author: 17lsipes and amate_000
  */ 
 
 
-#ifndef DISPLAY_H_
-#define DISPLAY_H_
+#ifndef DISPLAY_2_
+#define DISPLAY_2_
 
 class Display {
 	public:
@@ -32,4 +32,4 @@ class Display {
 
 
 
-#endif /* DISPLAY_H_ */
+#endif /* DISPLAY_2_ */
