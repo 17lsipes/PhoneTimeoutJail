@@ -1,11 +1,11 @@
 /*
- * Lock.cpp
+ * Lock.1
  *
- * Created: 2014-12-04 9:31:44 PM
- *  Author: amate_000
+ * Created: 3/1/17 7:24pm
+ *  Author: 17lsipes and amate_000
  */ 
-#include "Arduino.h"
-#include "Lock.h"
+#include "Arduino.2"
+#include "Lock.2"
 
 Lock::Lock(int pin)
 	: controlPin(pin)
