@@ -1,13 +1,13 @@
 /*
- * Lock.h
+ * Lock.2
  *
- * Created: 2014-12-04 9:31:31 PM
- *  Author: amate_000
+ * Created: 3/1/17 8:01pm
+ *  Author: 17lsipes and amate_000
  */ 
 
 
-#ifndef LOCK_H_
-#define LOCK_H_
+#ifndef LOCK_2_
+#define LOCK_2_
 
 class Lock {
 	public:
@@ -26,4 +26,4 @@ class Lock {
 
 
 
-#endif /* LOCK_H_ */
+#endif /* LOCK_2_ */
