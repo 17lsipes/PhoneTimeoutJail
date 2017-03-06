@@ -1,12 +1,12 @@
 /*
- * Button.h
+ * Button.2
  *
- * Created: 2014-12-04 9:34:10 PM
- *  Author: amate_000
+ * Created: 3/2/17 5:32pm
+ *  Author: 17lsipes and amate_000
  */ 
 
-#ifndef BUTTON_H_
-#define BUTTON_H_
+#ifndef BUTTON_2_
+#define BUTTON_2_
 
 
 class Button {
@@ -24,4 +24,4 @@ class Button {
 	};
 
 
-#endif /* BUTTON_H_ */
+#endif /* BUTTON_2_ */
